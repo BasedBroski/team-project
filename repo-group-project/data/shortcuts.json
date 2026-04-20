@@ -1,0 +1,18 @@
+[
+    {
+        "shortcut": "Ctrl + Shift + K",
+        "description": "Delete Line",
+        "category": "Editing",
+        "Contributor": "Garett Clark",
+        "Origin": "VS Code"
+
+    },
+    {
+        "shortcut": "Ctrl + H",
+        "description": "Replace",
+        "category": "Editing",
+        "Contributor": "Christian Miller",
+        "Origin": "VS Code"
+    }
+
+]
