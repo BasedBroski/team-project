@@ -1,0 +1,170 @@
+[
+    {
+        "shortcut": "Windows + PrintScreen",
+        "description": "Screenshot all screens",
+        "category": "System",
+        "Contributor": "Jasmine Morgan",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Ctrl + P",
+        "description": "Print",
+        "category": "System",
+        "Contributor": "Carina Estrada",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Ctrl + C",
+        "description": "Copy",
+        "category": "Editing",
+        "Contributor": "Anthony Guerrero",
+        "Origin": "Universal"
+    },
+    {
+        "shortcut": "Ctrl + Z",
+        "description": "Undo",
+        "category": "Editing",
+        "Contributor": "AJ Ramsden",
+        "Origin": "Universal"
+    },
+    {
+        "shortcut": "Ctrl + Shift + K",
+        "description": "Delete Line",
+        "category": "Editing",
+        "Contributor": "Garett Clark",
+        "Origin": "VS Code"
+    },
+    {
+        "shortcut": "Ctrl + H",
+        "description": "Replace",
+        "category": "Editing",
+        "Contributor": "Christian Miller",
+        "Origin": "VS Code"
+    },
+    {
+        "shortcut": "Ctrl + A",
+        "description": "Select All",
+        "category": "Editing",
+        "Contributor": "Stephen Ruelas",
+        "Origin": "Universal"
+    },
+    {
+        "shortcut": "Ctrl + F",
+        "description": "Find in document",
+        "category": "Navigation",
+        "Contributor": "Wansheng Wu",
+        "Origin": "Universal"
+    },
+    {
+        "shortcut": "Ctrl + T",
+        "description": "New Tab",
+        "category": "Navigation",
+        "Contributor": "Isabella O’Rear",
+        "Origin": "Browser"
+    },
+    {
+        "shortcut": "Alt + Tab",
+        "description": "Switch applications",
+        "category": "System",
+        "Contributor": "Tylan Miller",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Alt + F4",
+        "description": "Close active window",
+        "category": "System",
+        "Contributor": "Nang Khin La Pyae",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Win + Shift + F",
+        "description": "Search",
+        "category": "Navigation",
+        "Contributor": "Maddox Dorning",
+        "Origin": "Windows"
+    },
+    {
+        "shortcut": "Ctrl + Tab",
+        "description": "Switch tabs forward",
+        "category": "Navigation",
+        "Contributor": "Mitchell Chaffee",
+        "Origin": "Windows"
+    },
+    {
+        "shortcut": "Ctrl + Shift + Tab",
+        "description": "Switch tabs backward",
+        "category": "Navigation",
+        "Contributor": "Mitchell Chaffee",
+        "Origin": "Windows"
+    },
+    {
+        "shortcut": "Win + .",
+        "description": "Open emoji panel",
+        "category": "System",
+        "Contributor": "Reid Kuhlers",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Alt + Shift + F",
+        "description": "Format document",
+        "category": "Development",
+        "Contributor": "Thomas Brakefield / Hassan Alnabres",
+        "Origin": "VS Code"
+    },
+    {
+        "shortcut": "Alt + Z",
+        "description": "Toggle word wrap",
+        "category": "Development",
+        "Contributor": "Poppy Dalton",
+        "Origin": "VS Code"
+    },
+    {
+        "shortcut": "Ctrl + S",
+        "description": "Save current file",
+        "category": "System",
+        "Contributor": "Anna Patillo",
+        "Origin": "Universal"
+    },
+    {
+        "shortcut": "Ctrl + /",
+        "description": "Comment",
+        "category": "Development",
+        "Contributor": "Shion Kishaba",
+        "Origin": "VS Code"
+    },
+    {
+        "shortcut": "Ctrl + Shift + Esc",
+        "description": "Open Task Manager",
+        "category": "System",
+        "Contributor": "Brody Hilliard",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Ctrl + Alt + Delete",
+        "description": "Open options menu",
+        "category": "System",
+        "Contributor": "Sean Clary",
+        "Origin": "Windows OS"
+    },
+    {
+        "shortcut": "Ctrl + R",
+        "description": "Refresh page",
+        "category": "Navigation",
+        "Contributor": "Griffin Turner",
+        "Origin": "Windows"
+    },
+    {
+        "shortcut": "Alt + Shift + S, then R",
+        "description": "Generate getters and setters",
+        "category": "Development",
+        "Contributor": "Eric Staggs",
+        "Origin": "Eclipse (Windows/Linux)"
+    },
+    {
+        "shortcut": "Shift + Option + S",
+        "description": "Generate getters and setters",
+        "category": "Development",
+        "Contributor": "Eric Staggs",
+        "Origin": "Eclipse (MacOS)"
+    }
+]
