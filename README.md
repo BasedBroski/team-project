@@ -12,8 +12,10 @@ A web app that allows users to search and filter keyboard shortcuts.
 - Filter by category
 - Data loaded using JavaScript Fetch API
 
-## How to Run
-1. Click live app link.
+## How to Use
+1. Click the live app link.
+2. Select a category or search shortcut by name
+3. Get results 
 
 
 ## Live App
